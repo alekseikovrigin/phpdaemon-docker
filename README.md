@@ -1,5 +1,5 @@
 # phpdaemon-docker
-https://img.shields.io/github/license/alekseikovrigin/phpdaemon-docker?style=flat-square
+![GitHub](https://img.shields.io/github/license/alekseikovrigin/phpdaemon-docker?style=flat-square)
 <br>
 Use with Docker http://www.docker.io
 

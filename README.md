@@ -1,5 +1,6 @@
 # phpdaemon-docker
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
+https://img.shields.io/github/license/alekseikovrigin/phpdaemon-docker?style=flat-square
+<br>
 Use with Docker http://www.docker.io
 
 <br>
